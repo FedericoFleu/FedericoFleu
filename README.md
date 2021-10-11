@@ -3,6 +3,6 @@
 ## Mi nombre es Federico Fleurent 
 
 ## Sobre Mi 
-- Soy estudiante de Programacion y Big Data. 
-- Curiosidad constante.
-- Curiosidad por la red de Blockchain. 👀
+:mortar_board: Estudiante de Programación y Big Data.
+:eyes: Aprendizaje constante.
+:rocket: Curiosidad por la red de Blockchain.
