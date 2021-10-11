@@ -5,6 +5,6 @@
 ## Sobre Mi 
 👨🏻‍💻 Estudiante de Programación y Big Data.
 
-:eyes: Aprendizaje constante.
+👀 Aprendizaje constante.
 
-:rocket: Curiosidad por la red de Blockchain.
+🚀 Curiosidad por la red de Blockchain.
