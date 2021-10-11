@@ -8,3 +8,5 @@
 👀 Aprendizaje constante.
 
 🚀 Curiosidad por la red de Blockchain.
+
+Mira mi [Curriculum](https://drive.google.com/file/d/1kYL6mLoITABUiw3qbOE4-DvpxQnv1BOW/view?usp=sharing) para mas información.
