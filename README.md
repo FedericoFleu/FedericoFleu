@@ -6,5 +6,3 @@
 - Soy estudiante de Programacion y Big Data. 
 - Curiosidad constante.
 - Curiosidad por la red de Blockchain. 👀
-
-
