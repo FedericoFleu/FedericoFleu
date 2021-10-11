@@ -3,7 +3,7 @@
 ## Mi nombre es Federico Fleurent 
 
 ## Sobre Mi 
-:mortar_board: Estudiante de Programación y Big Data.
+👨🏻‍💻 Estudiante de Programación y Big Data.
 
 :eyes: Aprendizaje constante.
 
