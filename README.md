@@ -4,5 +4,7 @@
 
 ## Sobre Mi 
 :mortar_board: Estudiante de Programación y Big Data.
+
 :eyes: Aprendizaje constante.
+
 :rocket: Curiosidad por la red de Blockchain.
