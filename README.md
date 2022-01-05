@@ -1,12 +1,12 @@
-## Buenas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Buenas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px"></h2>
 
 ## Mi nombre es Federico Fleurent 
 
 ## Sobre Mi 
 👨🏻‍💻 Estudiante de Programación y Big Data.
 
-👀 Aprendizaje constante.
+👀 Aprendizaje constante y autodidacta.
 
-🚀 Curiosidad por la red de Blockchain.
+🚀 Curiosidad por la red de Blockchain y la tecnologia.
 
-Mira mi [Curriculum](https://drive.google.com/file/d/1buXKoKwkAmAOYymCyxvEeJctxiKzT9IX/view?usp=sharing) para mas información.
+Mira mi [Curriculum](https://drive.google.com/file/d/1bKMn-WNItyNUhskJ4BnQCgQY3-BmdP5v/view?usp=sharing) para saber mas de mi.
