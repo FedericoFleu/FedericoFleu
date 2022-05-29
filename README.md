@@ -9,4 +9,4 @@
 
 🚀 Curiosidad por la red de Blockchain y la tecnologia.
 
-Mira mi [Curriculum](https://drive.google.com/file/d/1NSNWbcDk20nljNWtWUAo5DY8zwWxxcTr/view?usp=sharing) para saber mas de mi.
+Mira mi [Curriculum](https://drive.google.com/file/d/1ozNLikMu04p9H79xr0ztbtYg8P7Oyeop/view?usp=sharing) para saber mas de mi.
