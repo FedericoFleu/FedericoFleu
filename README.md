@@ -1,4 +1,4 @@
-## Buenas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px"></h2>
+## Buenas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 ## Mi nombre es Federico Fleurent 
 
