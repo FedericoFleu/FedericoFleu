@@ -1,12 +1,12 @@
-## Buenas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" ></h2>
+## Bienvenido!
 
-## Mi nombre es Federico Fleurent 
+## Soy Federico Fleurent, vivo en Córdoba, Argentina.  
 
-## Sobre Mi 
+## Un poco sobre mi 
 👨🏻‍💻 Estudiante de Programación y Big Data.
 
 👀 Aprendizaje constante y autodidacta.
 
-🚀 Curiosidad por la red de Blockchain y la tecnologia.
+🚀 Curiosidad por la red de Blockchain y la tecnología.
 
-Mira mi [Curriculum](https://drive.google.com/file/d/1ozNLikMu04p9H79xr0ztbtYg8P7Oyeop/view?usp=sharing) para saber mas de mi.
+
