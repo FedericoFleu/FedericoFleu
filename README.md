@@ -1,4 +1,4 @@
-#👋 Welcome!
+👋 Welcome!
 
 ## I'm  Federico Fleurent, from Córdoba, Argentina.
 
