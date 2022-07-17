@@ -1,14 +1,14 @@
-##👋 Welcome!
+#👋 Welcome!
 
 ## I'm  Federico Fleurent, from Córdoba, Argentina.
 
 ## A little about me
-👨🏻‍💻 Estudiante de Programación en Coder House y Big Data en la Siglo 21.
+👨🏻‍💻 Programming student and Big Data.
 
-👀 Aprendizaje constante y autodidacta.
+👀 Constant and autodidact learning.
 
-🚀 Curiosidad por la red de Blockchain.
+🚀 Curiosity about the network Blockchain.
 
-Contáctame <a href="mailto:fedefleurent89@gmail.com">fedefleurent89@gmail.com</a> o  <a href="https://api.whatsapp.com/send?phone=543512526397" >WhatsApp</a>.
+Contact me <a href="mailto:fedefleurent89@gmail.com">fedefleurent89@gmail.com</a> or <a href="https://api.whatsapp.com/send?phone=543512526397" >WhatsApp</a>.
 
 
