@@ -1,8 +1,8 @@
-## Welcome!
+##👋 Welcome!
 
-## I'm  Federico Fleurent, from Córdoba, Argentina.🇦🇷
+## I'm  Federico Fleurent, from Córdoba, Argentina.
 
-## Un poco sobre mi 
+## A little about me
 👨🏻‍💻 Estudiante de Programación en Coder House y Big Data en la Siglo 21.
 
 👀 Aprendizaje constante y autodidacta.
