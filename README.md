@@ -3,7 +3,7 @@
 I'm  Federico Fleurent, from Córdoba, Argentina.
 
 ## A little about me
-👨🏻‍💻 Programming student and Big Data.
+👨🏻‍💻 Front-end and big data student.
 
 👀 Constant and autodidact learning.
 
